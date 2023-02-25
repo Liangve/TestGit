@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     public static void main(String[] args) {
-        //什么也没干
+        //另一个注释
         SpringApplication.run(DemoApplication.class, args);
     }
 
